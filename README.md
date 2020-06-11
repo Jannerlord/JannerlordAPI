@@ -37,8 +37,8 @@ dependencies {
     name = "TestMod",
     id = "TestMod",
     version = "v1.0.0",
-    singleplayer = true,
-    multiplayer = false,
+    singlePlayer = true,
+    multiPlayer = false,
     dependencies = {
         @Dependency("Native"),
         @Dependency("SandBoxCore"),
