@@ -63,7 +63,7 @@ dependencies {
         )
     }
 )
-public final class TestMod extends Mod {
+public final class TestMod implements Mod {
 
     
 
